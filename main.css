@@ -19,14 +19,6 @@ table{
 #nb {
     border: 1px solid black;
 }
-video{
-    z-index: -1;
-    position: absolute;
-    opacity: 80%;
-    margin: 0px;
-    padding: 0px;
-
-}
 .phtml{
     height: 20px;
     background-color: white;
@@ -85,4 +77,6 @@ body {
   align-items: center;
   justify-content: center;
   background: #000; 
+    margin:0
+        
 }
